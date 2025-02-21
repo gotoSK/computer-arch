@@ -1,0 +1,83 @@
+$date
+  Fri Nov 25 14:44:29 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ ep $end
+$var reg 1 % op $end
+$scope module parity_gen $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c $end
+$var reg 1 ) ep $end
+$var reg 1 * op $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+1%
+0&
+0'
+0(
+0)
+1*
+#20000000
+1#
+1$
+0%
+1(
+1)
+0*
+#40000000
+1"
+0#
+1'
+0(
+#60000000
+1#
+0$
+1%
+1(
+0)
+1*
+#80000000
+1!
+0"
+0#
+1$
+0%
+1&
+0'
+0(
+1)
+0*
+#100000000
+1#
+0$
+1%
+1(
+0)
+1*
+#120000000
+1"
+0#
+1'
+0(
+#140000000
+1#
+1$
+0%
+1(
+1)
+0*
+#160000000
